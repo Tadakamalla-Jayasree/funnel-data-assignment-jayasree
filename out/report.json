@@ -1,0 +1,108 @@
+{
+  "funnel": [
+    {
+      "step": "Loaded",
+      "users": 49,
+      "conv_from_prev_pct": 100.0,
+      "conv_from_start_pct": 100.0,
+      "device": "desktop"
+    },
+    {
+      "step": "Interact",
+      "users": 33,
+      "conv_from_prev_pct": 67.35,
+      "conv_from_start_pct": 67.35,
+      "device": "desktop"
+    },
+    {
+      "step": "Clicks",
+      "users": 17,
+      "conv_from_prev_pct": 51.52,
+      "conv_from_start_pct": 34.69,
+      "device": "desktop"
+    },
+    {
+      "step": "Purchase",
+      "users": 6,
+      "conv_from_prev_pct": 35.29,
+      "conv_from_start_pct": 12.24,
+      "device": "desktop"
+    },
+    {
+      "step": "Loaded",
+      "users": 53,
+      "conv_from_prev_pct": 100.0,
+      "conv_from_start_pct": 100.0,
+      "device": "mobile"
+    },
+    {
+      "step": "Interact",
+      "users": 42,
+      "conv_from_prev_pct": 79.25,
+      "conv_from_start_pct": 79.25,
+      "device": "mobile"
+    },
+    {
+      "step": "Clicks",
+      "users": 24,
+      "conv_from_prev_pct": 57.14,
+      "conv_from_start_pct": 45.28,
+      "device": "mobile"
+    },
+    {
+      "step": "Purchase",
+      "users": 9,
+      "conv_from_prev_pct": 37.5,
+      "conv_from_start_pct": 16.98,
+      "device": "mobile"
+    }
+  ],
+  "intents": [
+    {
+      "intent": "product_search",
+      "count": 125,
+      "pct_of_total": 35.51
+    },
+    {
+      "intent": "product_comparison",
+      "count": 49,
+      "pct_of_total": 13.92
+    },
+    {
+      "intent": "faq",
+      "count": 44,
+      "pct_of_total": 12.5
+    },
+    {
+      "intent": "product_details",
+      "count": 44,
+      "pct_of_total": 12.5
+    },
+    {
+      "intent": "track_order",
+      "count": 35,
+      "pct_of_total": 9.94
+    },
+    {
+      "intent": "brand_question",
+      "count": 26,
+      "pct_of_total": 7.39
+    },
+    {
+      "intent": "unknown",
+      "count": 18,
+      "pct_of_total": 5.11
+    },
+    {
+      "intent": "email_verification",
+      "count": 11,
+      "pct_of_total": 3.12
+    }
+  ],
+  "cancellation_sla": {
+    "total_orders": 15,
+    "canceled": 2,
+    "violations": 1,
+    "violation_rate_pct": 6.67
+  }
+}

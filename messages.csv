@@ -1,0 +1,353 @@
+session_id,ts,text,detected_intent
+S100000,2025-08-14 16:26:14,Looking for options around $50,product_search
+S100000,2025-08-14 16:26:58,How does A compare to B?,product_comparison
+S100001,2025-09-01 21:11:20,Looking for options around $50,product_search
+S100001,2025-09-01 21:12:50,Looking for options around $50,product_search
+S100001,2025-09-01 21:13:05,Where is my order?,track_order
+S100001,2025-09-01 21:13:40,What is your return policy?,faq
+S100001,2025-09-01 21:14:38,Looking for options around $50,product_search
+S100002,2025-08-05 20:03:54,…,
+S100002,2025-08-05 20:04:57,Looking for options around $50,product_search
+S100002,2025-08-05 20:05:49,Where is my order?,track_order
+S100002,2025-08-05 20:07:23,Is this cruelty-free?,brand_question
+S100003,2025-08-12 09:31:39,Is this cruelty-free?,brand_question
+S100004,2025-08-23 08:16:04,How does A compare to B?,product_comparison
+S100004,2025-08-23 08:16:40,How does A compare to B?,product_comparison
+S100004,2025-08-23 08:17:26,Looking for options around $50,product_search
+S100004,2025-08-23 08:18:29,Looking for options around $50,product_search
+S100005,2025-08-12 10:53:35,Looking for options around $50,product_search
+S100005,2025-08-12 10:54:24,Looking for options around $50,product_search
+S100005,2025-08-12 10:55:51,Is this cruelty-free?,brand_question
+S100007,2025-08-29 17:07:22,Looking for options around $50,product_search
+S100007,2025-08-29 17:07:51,Looking for options around $50,product_search
+S100007,2025-08-29 17:08:26,Where is my order?,track_order
+S100007,2025-08-29 17:09:35,How does A compare to B?,product_comparison
+S100007,2025-08-29 17:10:39,Does this come in size M?,product_details
+S100008,2025-08-01 21:23:03,What is your return policy?,faq
+S100008,2025-08-01 21:24:26,Where is my order?,track_order
+S100008,2025-08-01 21:26:19,What is your return policy?,faq
+S100008,2025-08-01 21:26:48,Looking for options around $50,product_search
+S100009,2025-09-05 09:18:41,…,
+S100010,2025-08-15 19:44:07,How does A compare to B?,product_comparison
+S100011,2025-08-27 12:26:41,Send me the verification code.,email_verification
+S100012,2025-08-02 06:43:29,Looking for options around $50,product_search
+S100012,2025-08-02 06:43:51,Looking for options around $50,product_search
+S100013,2025-09-05 20:45:27,Looking for options around $50,product_search
+S100013,2025-09-05 20:46:49,Is this cruelty-free?,brand_question
+S100013,2025-09-05 20:47:58,…,
+S100014,2025-08-16 11:10:49,How does A compare to B?,product_comparison
+S100014,2025-08-16 11:11:33,How does A compare to B?,product_comparison
+S100015,2025-08-04 18:34:45,How does A compare to B?,product_comparison
+S100015,2025-08-04 18:35:31,Where is my order?,track_order
+S100016,2025-08-06 00:56:57,Does this come in size M?,product_details
+S100016,2025-08-06 00:58:11,Is this cruelty-free?,brand_question
+S100017,2025-08-20 21:07:13,Is this cruelty-free?,brand_question
+S100017,2025-08-20 21:07:59,Looking for options around $50,product_search
+S100018,2025-08-21 19:32:03,Does this come in size M?,product_details
+S100018,2025-08-21 19:33:28,Looking for options around $50,product_search
+S100018,2025-08-21 19:35:06,…,
+S100018,2025-08-21 19:35:22,…,
+S100019,2025-08-24 21:49:34,Send me the verification code.,email_verification
+S100020,2025-09-04 03:37:11,How does A compare to B?,product_comparison
+S100020,2025-09-04 03:38:57,Does this come in size M?,product_details
+S100020,2025-09-04 03:39:36,Looking for options around $50,product_search
+S100021,2025-08-16 13:22:58,Is this cruelty-free?,brand_question
+S100021,2025-08-16 13:23:21,How does A compare to B?,product_comparison
+S100021,2025-08-16 13:25:02,Is this cruelty-free?,brand_question
+S100023,2025-09-01 16:04:10,Looking for options around $50,product_search
+S100024,2025-08-27 10:23:45,Is this cruelty-free?,brand_question
+S100025,2025-08-22 14:33:04,Looking for options around $50,product_search
+S100025,2025-08-22 14:35:02,What is your return policy?,faq
+S100025,2025-08-22 14:35:18,What is your return policy?,faq
+S100025,2025-08-22 14:36:43,Looking for options around $50,product_search
+S100025,2025-08-22 14:38:22,Looking for options around $50,product_search
+S100026,2025-08-06 12:42:55,Looking for options around $50,product_search
+S100026,2025-08-06 12:44:27,Looking for options around $50,product_search
+S100026,2025-08-06 12:45:25,Looking for options around $50,product_search
+S100026,2025-08-06 12:47:01,Is this cruelty-free?,brand_question
+S100026,2025-08-06 12:48:20,Does this come in size M?,product_details
+S100027,2025-08-21 21:30:25,Looking for options around $50,product_search
+S100027,2025-08-21 21:32:18,Looking for options around $50,product_search
+S100027,2025-08-21 21:33:06,Looking for options around $50,product_search
+S100027,2025-08-21 21:34:17,How does A compare to B?,product_comparison
+S100028,2025-08-04 23:41:38,Send me the verification code.,email_verification
+S100028,2025-08-04 23:43:02,Looking for options around $50,product_search
+S100029,2025-08-07 12:29:25,Is this cruelty-free?,brand_question
+S100030,2025-08-06 07:47:21,Where is my order?,track_order
+S100030,2025-08-06 07:48:06,Is this cruelty-free?,brand_question
+S100030,2025-08-06 07:50:03,Where is my order?,track_order
+S100031,2025-08-17 11:02:33,Where is my order?,track_order
+S100031,2025-08-17 11:04:22,Where is my order?,track_order
+S100032,2025-08-06 13:57:24,Looking for options around $50,product_search
+S100033,2025-09-02 09:01:32,Looking for options around $50,product_search
+S100033,2025-09-02 09:03:09,How does A compare to B?,product_comparison
+S100033,2025-09-02 09:04:50,…,
+S100035,2025-08-14 05:18:46,Looking for options around $50,product_search
+S100035,2025-08-14 05:20:14,Looking for options around $50,product_search
+S100035,2025-08-14 05:20:34,What is your return policy?,faq
+S100035,2025-08-14 05:20:49,How does A compare to B?,product_comparison
+S100036,2025-08-22 06:31:39,Send me the verification code.,email_verification
+S100036,2025-08-22 06:32:58,Looking for options around $50,product_search
+S100037,2025-09-04 04:19:01,What is your return policy?,faq
+S100037,2025-09-04 04:19:54,Does this come in size M?,product_details
+S100037,2025-09-04 04:20:09,Looking for options around $50,product_search
+S100038,2025-08-30 18:49:57,Does this come in size M?,product_details
+S100038,2025-08-30 18:51:38,Looking for options around $50,product_search
+S100039,2025-08-05 10:48:04,Where is my order?,track_order
+S100039,2025-08-05 10:49:55,Looking for options around $50,product_search
+S100039,2025-08-05 10:50:49,Looking for options around $50,product_search
+S100040,2025-08-03 13:50:58,Does this come in size M?,product_details
+S100040,2025-08-03 13:52:33,How does A compare to B?,product_comparison
+S100040,2025-08-03 13:54:19,What is your return policy?,faq
+S100041,2025-08-08 11:56:14,Is this cruelty-free?,brand_question
+S100042,2025-08-09 20:57:06,How does A compare to B?,product_comparison
+S100042,2025-08-09 20:57:27,How does A compare to B?,product_comparison
+S100042,2025-08-09 20:57:57,Does this come in size M?,product_details
+S100042,2025-08-09 20:59:54,Does this come in size M?,product_details
+S100042,2025-08-09 21:01:16,…,
+S100043,2025-08-31 01:48:49,Does this come in size M?,product_details
+S100043,2025-08-31 01:50:14,Does this come in size M?,product_details
+S100043,2025-08-31 01:50:49,Where is my order?,track_order
+S100043,2025-08-31 01:52:04,Does this come in size M?,product_details
+S100044,2025-08-24 20:37:11,Looking for options around $50,product_search
+S100044,2025-08-24 20:37:45,Looking for options around $50,product_search
+S100044,2025-08-24 20:39:28,Looking for options around $50,product_search
+S100044,2025-08-24 20:40:10,Looking for options around $50,product_search
+S100044,2025-08-24 20:41:17,Looking for options around $50,product_search
+S100045,2025-08-29 16:30:23,Is this cruelty-free?,brand_question
+S100046,2025-08-01 14:53:02,Where is my order?,track_order
+S100048,2025-08-30 01:36:50,Is this cruelty-free?,brand_question
+S100048,2025-08-30 01:37:28,Looking for options around $50,product_search
+S100049,2025-08-23 09:46:55,Looking for options around $50,product_search
+S100049,2025-08-23 09:47:20,Does this come in size M?,product_details
+S100050,2025-08-12 05:16:09,…,
+S100050,2025-08-12 05:16:29,Where is my order?,track_order
+S100050,2025-08-12 05:17:15,Looking for options around $50,product_search
+S100050,2025-08-12 05:17:32,What is your return policy?,faq
+S100051,2025-09-02 20:00:26,Does this come in size M?,product_details
+S100051,2025-09-02 20:01:58,How does A compare to B?,product_comparison
+S100052,2025-08-06 13:57:42,Does this come in size M?,product_details
+S100052,2025-08-06 13:59:28,Looking for options around $50,product_search
+S100053,2025-09-04 04:19:01,How does A compare to B?,product_comparison
+S100053,2025-09-04 04:19:31,Where is my order?,track_order
+S100053,2025-09-04 04:20:58,Where is my order?,track_order
+S100054,2025-08-19 07:45:56,…,
+S100055,2025-08-08 18:15:40,What is your return policy?,faq
+S100055,2025-08-08 18:17:03,Where is my order?,track_order
+S100055,2025-08-08 18:18:17,Does this come in size M?,product_details
+S100055,2025-08-08 18:20:05,How does A compare to B?,product_comparison
+S100056,2025-08-14 20:59:15,Where is my order?,track_order
+S100057,2025-08-02 17:27:47,What is your return policy?,faq
+S100057,2025-08-02 17:28:37,How does A compare to B?,product_comparison
+S100057,2025-08-02 17:29:58,Send me the verification code.,email_verification
+S100057,2025-08-02 17:30:23,Looking for options around $50,product_search
+S100057,2025-08-02 17:31:30,Does this come in size M?,product_details
+S100058,2025-08-02 04:06:17,What is your return policy?,faq
+S100058,2025-08-02 04:07:19,Does this come in size M?,product_details
+S100058,2025-08-02 04:08:41,Looking for options around $50,product_search
+S100058,2025-08-02 04:10:31,How does A compare to B?,product_comparison
+S100059,2025-08-16 05:16:22,What is your return policy?,faq
+S100059,2025-08-16 05:17:01,Looking for options around $50,product_search
+S100059,2025-08-16 05:18:17,Looking for options around $50,product_search
+S100060,2025-08-10 18:10:40,What is your return policy?,faq
+S100060,2025-08-10 18:11:11,What is your return policy?,faq
+S100060,2025-08-10 18:13:02,How does A compare to B?,product_comparison
+S100061,2025-08-17 20:58:20,Looking for options around $50,product_search
+S100062,2025-08-04 22:19:13,How does A compare to B?,product_comparison
+S100062,2025-08-04 22:20:21,How does A compare to B?,product_comparison
+S100063,2025-08-19 19:11:30,Looking for options around $50,product_search
+S100064,2025-08-06 03:37:36,What is your return policy?,faq
+S100064,2025-08-06 03:38:24,What is your return policy?,faq
+S100064,2025-08-06 03:38:59,Looking for options around $50,product_search
+S100064,2025-08-06 03:40:24,Looking for options around $50,product_search
+S100065,2025-09-03 19:10:56,What is your return policy?,faq
+S100065,2025-09-03 19:11:44,Where is my order?,track_order
+S100065,2025-09-03 19:13:19,How does A compare to B?,product_comparison
+S100066,2025-08-27 18:29:30,Where is my order?,track_order
+S100066,2025-08-27 18:30:21,Does this come in size M?,product_details
+S100067,2025-08-25 15:06:42,Where is my order?,track_order
+S100067,2025-08-25 15:08:14,Looking for options around $50,product_search
+S100067,2025-08-25 15:08:40,Looking for options around $50,product_search
+S100068,2025-08-14 10:01:47,Where is my order?,track_order
+S100068,2025-08-14 10:02:13,Does this come in size M?,product_details
+S100068,2025-08-14 10:03:20,Looking for options around $50,product_search
+S100069,2025-09-02 11:59:55,Where is my order?,track_order
+S100069,2025-09-02 12:00:14,Does this come in size M?,product_details
+S100070,2025-08-06 23:04:36,Is this cruelty-free?,brand_question
+S100071,2025-08-03 23:10:43,Does this come in size M?,product_details
+S100071,2025-08-03 23:11:04,Looking for options around $50,product_search
+S100071,2025-08-03 23:12:29,Looking for options around $50,product_search
+S100072,2025-08-24 20:45:33,Looking for options around $50,product_search
+S100072,2025-08-24 20:46:58,Looking for options around $50,product_search
+S100072,2025-08-24 20:48:05,Looking for options around $50,product_search
+S100072,2025-08-24 20:48:34,Does this come in size M?,product_details
+S100073,2025-09-05 02:55:16,Looking for options around $50,product_search
+S100073,2025-09-05 02:56:47,How does A compare to B?,product_comparison
+S100073,2025-09-05 02:57:19,Is this cruelty-free?,brand_question
+S100074,2025-08-14 07:17:34,What is your return policy?,faq
+S100074,2025-08-14 07:19:04,How does A compare to B?,product_comparison
+S100076,2025-08-16 22:55:36,Looking for options around $50,product_search
+S100078,2025-09-01 23:40:43,…,
+S100078,2025-09-01 23:41:14,How does A compare to B?,product_comparison
+S100078,2025-09-01 23:42:44,Looking for options around $50,product_search
+S100079,2025-08-26 20:46:54,What is your return policy?,faq
+S100079,2025-08-26 20:48:01,Is this cruelty-free?,brand_question
+S100080,2025-08-14 04:47:23,Is this cruelty-free?,brand_question
+S100080,2025-08-14 04:48:46,Does this come in size M?,product_details
+S100080,2025-08-14 04:49:41,What is your return policy?,faq
+S100081,2025-08-04 15:44:33,What is your return policy?,faq
+S100081,2025-08-04 15:45:00,Does this come in size M?,product_details
+S100081,2025-08-04 15:46:43,Looking for options around $50,product_search
+S100081,2025-08-04 15:47:01,Looking for options around $50,product_search
+S100082,2025-08-13 04:31:14,Looking for options around $50,product_search
+S100082,2025-08-13 04:32:47,Is this cruelty-free?,brand_question
+S100083,2025-08-29 15:26:29,What is your return policy?,faq
+S100083,2025-08-29 15:27:04,Looking for options around $50,product_search
+S100083,2025-08-29 15:28:03,…,
+S100083,2025-08-29 15:28:56,What is your return policy?,faq
+S100084,2025-08-20 00:12:28,Looking for options around $50,product_search
+S100084,2025-08-20 00:13:56,Does this come in size M?,product_details
+S100084,2025-08-20 00:14:48,…,
+S100084,2025-08-20 00:15:40,Looking for options around $50,product_search
+S100085,2025-08-01 17:26:26,Send me the verification code.,email_verification
+S100085,2025-08-01 17:28:16,How does A compare to B?,product_comparison
+S100085,2025-08-01 17:29:07,Where is my order?,track_order
+S100086,2025-09-01 05:44:41,What is your return policy?,faq
+S100086,2025-09-01 05:45:13,What is your return policy?,faq
+S100086,2025-09-01 05:46:48,What is your return policy?,faq
+S100086,2025-09-01 05:47:42,Where is my order?,track_order
+S100087,2025-08-07 17:06:58,Looking for options around $50,product_search
+S100087,2025-08-07 17:08:53,How does A compare to B?,product_comparison
+S100087,2025-08-07 17:09:54,How does A compare to B?,product_comparison
+S100087,2025-08-07 17:10:43,Is this cruelty-free?,brand_question
+S100088,2025-08-17 18:39:08,…,
+S100089,2025-09-05 11:47:30,…,
+S100089,2025-09-05 11:49:27,How does A compare to B?,product_comparison
+S100089,2025-09-05 11:49:53,Where is my order?,track_order
+S100089,2025-09-05 11:50:09,Looking for options around $50,product_search
+S100090,2025-09-02 23:54:54,How does A compare to B?,product_comparison
+S100090,2025-09-02 23:56:54,What is your return policy?,faq
+S100090,2025-09-02 23:57:56,Looking for options around $50,product_search
+S100091,2025-08-31 09:50:53,Looking for options around $50,product_search
+S100091,2025-08-31 09:52:26,Looking for options around $50,product_search
+S100091,2025-08-31 09:52:49,What is your return policy?,faq
+S100091,2025-08-31 09:54:03,Send me the verification code.,email_verification
+S100092,2025-08-08 02:51:36,Looking for options around $50,product_search
+S100092,2025-08-08 02:52:59,Looking for options around $50,product_search
+S100092,2025-08-08 02:54:12,Does this come in size M?,product_details
+S100092,2025-08-08 02:56:02,What is your return policy?,faq
+S100093,2025-09-05 14:33:47,Looking for options around $50,product_search
+S100093,2025-09-05 14:34:49,Looking for options around $50,product_search
+S100094,2025-08-06 03:46:25,How does A compare to B?,product_comparison
+S100095,2025-08-20 15:52:24,What is your return policy?,faq
+S100096,2025-08-17 12:34:21,Where is my order?,track_order
+S100096,2025-08-17 12:35:46,Looking for options around $50,product_search
+S100097,2025-08-08 11:56:18,Looking for options around $50,product_search
+S100097,2025-08-08 11:56:51,…,
+S100097,2025-08-08 11:58:15,Looking for options around $50,product_search
+S100097,2025-08-08 11:58:52,Looking for options around $50,product_search
+S100098,2025-08-18 17:23:42,How does A compare to B?,product_comparison
+S100098,2025-08-18 17:23:59,Looking for options around $50,product_search
+S100098,2025-08-18 17:24:20,Looking for options around $50,product_search
+S100098,2025-08-18 17:25:28,How does A compare to B?,product_comparison
+S100100,2025-09-01 13:33:08,…,
+S100100,2025-09-01 13:34:14,Does this come in size M?,product_details
+S100100,2025-09-01 13:34:42,How does A compare to B?,product_comparison
+S100101,2025-08-16 23:18:36,Looking for options around $50,product_search
+S100101,2025-08-16 23:19:55,How does A compare to B?,product_comparison
+S100102,2025-09-01 22:23:47,What is your return policy?,faq
+S100103,2025-08-12 10:14:31,Looking for options around $50,product_search
+S100104,2025-08-05 18:17:30,Does this come in size M?,product_details
+S100104,2025-08-05 18:19:20,Where is my order?,track_order
+S100105,2025-08-28 14:18:05,…,
+S100105,2025-08-28 14:19:36,Looking for options around $50,product_search
+S100105,2025-08-28 14:20:04,How does A compare to B?,product_comparison
+S100105,2025-08-28 14:20:46,Looking for options around $50,product_search
+S100105,2025-08-28 14:22:02,Looking for options around $50,product_search
+S100106,2025-08-19 04:16:15,Where is my order?,track_order
+S100106,2025-08-19 04:17:48,What is your return policy?,faq
+S100107,2025-09-02 06:26:33,Looking for options around $50,product_search
+S100107,2025-09-02 06:27:22,What is your return policy?,faq
+S100107,2025-09-02 06:28:16,Send me the verification code.,email_verification
+S100108,2025-08-08 06:54:42,Does this come in size M?,product_details
+S100108,2025-08-08 06:55:55,Looking for options around $50,product_search
+S100108,2025-08-08 06:56:57,Looking for options around $50,product_search
+S100109,2025-08-08 21:16:38,Does this come in size M?,product_details
+S100109,2025-08-08 21:17:47,Does this come in size M?,product_details
+S100110,2025-08-11 19:09:50,Looking for options around $50,product_search
+S100110,2025-08-11 19:10:19,Looking for options around $50,product_search
+S100110,2025-08-11 19:12:00,How does A compare to B?,product_comparison
+S100110,2025-08-11 19:13:22,What is your return policy?,faq
+S100110,2025-08-11 19:13:42,Looking for options around $50,product_search
+S100111,2025-08-11 06:10:27,How does A compare to B?,product_comparison
+S100111,2025-08-11 06:11:37,Looking for options around $50,product_search
+S100111,2025-08-11 06:12:40,How does A compare to B?,product_comparison
+S100111,2025-08-11 06:13:24,How does A compare to B?,product_comparison
+S100111,2025-08-11 06:15:04,Where is my order?,track_order
+S100112,2025-08-03 09:18:14,What is your return policy?,faq
+S100112,2025-08-03 09:19:22,Looking for options around $50,product_search
+S100113,2025-08-09 16:16:22,Does this come in size M?,product_details
+S100113,2025-08-09 16:18:05,Send me the verification code.,email_verification
+S100113,2025-08-09 16:18:31,Does this come in size M?,product_details
+S100114,2025-08-29 22:06:55,Looking for options around $50,product_search
+S100114,2025-08-29 22:07:52,Where is my order?,track_order
+S100115,2025-08-26 02:10:12,What is your return policy?,faq
+S100115,2025-08-26 02:10:45,Looking for options around $50,product_search
+S100117,2025-08-28 17:42:25,Looking for options around $50,product_search
+S100117,2025-08-28 17:43:36,Looking for options around $50,product_search
+S100117,2025-08-28 17:44:47,What is your return policy?,faq
+S100118,2025-08-25 23:07:02,Is this cruelty-free?,brand_question
+S100118,2025-08-25 23:07:28,What is your return policy?,faq
+S100118,2025-08-25 23:08:47,Does this come in size M?,product_details
+S100119,2025-08-29 02:02:37,How does A compare to B?,product_comparison
+S100120,2025-08-23 04:55:12,How does A compare to B?,product_comparison
+S100120,2025-08-23 04:55:47,Does this come in size M?,product_details
+S100121,2025-09-01 18:10:59,Looking for options around $50,product_search
+S100121,2025-09-01 18:12:46,Is this cruelty-free?,brand_question
+S100122,2025-08-05 06:57:49,Looking for options around $50,product_search
+S100123,2025-09-02 20:46:20,…,
+S100123,2025-09-02 20:47:42,Looking for options around $50,product_search
+S100123,2025-09-02 20:49:22,Does this come in size M?,product_details
+S100124,2025-08-16 07:52:35,Looking for options around $50,product_search
+S100124,2025-08-16 07:53:07,Looking for options around $50,product_search
+S100124,2025-08-16 07:53:59,Is this cruelty-free?,brand_question
+S100124,2025-08-16 07:54:26,How does A compare to B?,product_comparison
+S100124,2025-08-16 07:55:50,Is this cruelty-free?,brand_question
+S100125,2025-08-17 16:23:06,Looking for options around $50,product_search
+S100125,2025-08-17 16:24:09,Looking for options around $50,product_search
+S100126,2025-08-22 13:56:46,What is your return policy?,faq
+S100126,2025-08-22 13:58:37,Where is my order?,track_order
+S100126,2025-08-22 13:59:49,Looking for options around $50,product_search
+S100127,2025-08-10 18:04:04,Does this come in size M?,product_details
+S100127,2025-08-10 18:04:39,Where is my order?,track_order
+S100127,2025-08-10 18:06:36,How does A compare to B?,product_comparison
+S100127,2025-08-10 18:07:23,Looking for options around $50,product_search
+S100128,2025-08-06 07:32:53,Is this cruelty-free?,brand_question
+S100128,2025-08-06 07:33:44,Looking for options around $50,product_search
+S100129,2025-08-26 06:06:40,Where is my order?,track_order
+S100129,2025-08-26 06:07:39,Send me the verification code.,email_verification
+S100129,2025-08-26 06:08:47,Looking for options around $50,product_search
+S100130,2025-08-20 01:56:00,Looking for options around $50,product_search
+S100130,2025-08-20 01:56:55,Send me the verification code.,email_verification
+S100131,2025-08-08 00:20:46,What is your return policy?,faq
+S100131,2025-08-08 00:21:58,What is your return policy?,faq
+S100131,2025-08-08 00:22:23,Looking for options around $50,product_search
+S100132,2025-09-05 15:18:08,Looking for options around $50,product_search
+S100132,2025-09-05 15:18:29,Looking for options around $50,product_search
+S100132,2025-09-05 15:20:05,Where is my order?,track_order
+S100133,2025-08-25 14:22:08,Does this come in size M?,product_details
+S100133,2025-08-25 14:23:36,Does this come in size M?,product_details
+S100133,2025-08-25 14:25:16,What is your return policy?,faq
+S100134,2025-08-24 03:45:48,Looking for options around $50,product_search
+S100134,2025-08-24 03:47:27,What is your return policy?,faq
+S100134,2025-08-24 03:49:20,How does A compare to B?,product_comparison
+S100135,2025-08-18 10:29:11,Does this come in size M?,product_details
+S100135,2025-08-18 10:30:55,Does this come in size M?,product_details
+S100135,2025-08-18 10:31:33,Where is my order?,track_order
+S100137,2025-08-03 02:40:37,Looking for options around $50,product_search
+S100137,2025-08-03 02:42:31,Looking for options around $50,product_search
+S100137,2025-08-03 02:44:09,Looking for options around $50,product_search
+S100138,2025-08-20 18:04:36,Looking for options around $50,product_search
+S100139,2025-08-25 11:41:12,Does this come in size M?,product_details
+S100139,2025-08-25 11:42:22,How does A compare to B?,product_comparison
+S100139,2025-08-25 11:44:22,Looking for options around $50,product_search
